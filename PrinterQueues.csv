@@ -1,0 +1,3 @@
+OldPrinter,NewPrinter
+\\server1\example printer 1,\\server2\example printer(1)
+\\oldserver\oldprinter,\\newserver\newprinter
