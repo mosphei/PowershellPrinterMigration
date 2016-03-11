@@ -2,9 +2,9 @@ Powershell Printer Migration now with ElasticSearch/Kibana logging
 ==================================================================
 
 powershell logon script to migrate print mappings from one server to another and logging to ElasticSearch so logs can be searched, filtered, and graphed with Kibana
-![PrintQueues.csv](screenshots/PrinterQueuesCSV.png,"Map from old print queue to new print queue")
-![Kibana Charts](screenshots/kibana.PNG,"Kibana interface with histogram and bar graph")
-![Kibana Detail](screenshots/kibana2.PNG,"Kibana showing log entry detail")
+![PrintQueues.csv](screenshots/PrinterQueuesCSV.png "Map from old print queue to new print queue")
+![Kibana Charts](screenshots/kibana.PNG "Kibana interface with histogram and bar graph")
+![Kibana Detail](screenshots/kibana2.PNG "Kibana showing log entry detail")
 
 Introduction
 ------------
